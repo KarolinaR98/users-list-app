@@ -1,0 +1,17 @@
+.list {
+    max-width: 600px;
+    border: 1px solid black;
+    padding: 30px;
+     margin: 10px auto;
+}
+
+.list .userItem{
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.list .userItem:hover{
+    background-color: red;
+}

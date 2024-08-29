@@ -1,0 +1,19 @@
+.usersListForm form{
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.usersListForm form input,
+.usersListForm form select{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.usersListForm form button{
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;
+}
